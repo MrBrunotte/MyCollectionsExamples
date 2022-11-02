@@ -27,7 +27,7 @@ namespace MyCollectionsExamples
             string[] names = new string[3];
             names[0] = "Stefan";
             names[1] = "Viggo";
-            names[2] = "Rebecca";
+            names[2] = "Gina";
             Console.WriteLine("Prints an array of three strings:");
             for (int i = 0; i < names.Length; i++)
             {

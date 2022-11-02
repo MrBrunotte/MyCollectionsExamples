@@ -18,7 +18,7 @@ namespace MyCollectionsExamples
             names.Add("Sven");
             names.Add("Calle");
             names.Add("Viggo");
-            names.Add("Herman");
+            names.Add("Gina");
 
             foreach (var name in names)
             {
